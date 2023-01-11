@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-11T06:02:09Z" name="Default suite" finished-at="2023-01-11T06:02:11Z" duration-ms="2383">
+    <groups>
+    </groups>
+    <test started-at="2023-01-11T06:02:09Z" name="Default test" finished-at="2023-01-11T06:02:11Z" duration-ms="2383">
+      <class name="com.TestVagrant.testCases.TestValidations">
+        <test-method signature="foreignPlayersValidation()[pri:0, instance:com.TestVagrant.testCases.TestValidations@2ddc9a9f]" started-at="2023-01-11T06:02:09Z" name="foreignPlayersValidation" finished-at="2023-01-11T06:02:11Z" duration-ms="2121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- foreignPlayersValidation -->
+        <test-method signature="wicketKeeperValidation()[pri:0, instance:com.TestVagrant.testCases.TestValidations@2ddc9a9f]" started-at="2023-01-11T06:02:11Z" name="wicketKeeperValidation" finished-at="2023-01-11T06:02:11Z" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wicketKeeperValidation -->
+      </class> <!-- com.TestVagrant.testCases.TestValidations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
