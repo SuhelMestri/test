@@ -26,7 +26,7 @@ public class TestValidations {
 			}
 		}
 		Assert.assertTrue(CountOfForeinPlayers == 4,
-				"Failure Message = The count of Foreign Players in RCB team is not 4");
+				"Failure Message => The count of Foreign Players in RCB team is not 4");
 	}
 
 	@Test
@@ -43,6 +43,6 @@ public class TestValidations {
 				CountOfWkeeper++;
 			}
 		}
-		Assert.assertTrue(CountOfWkeeper >= 1, "Failure Message = RCB team having no weeket keepers");
+		Assert.assertTrue(CountOfWkeeper >= 1, "Failure Message => RCB team having no weeket keepers");
 	}
 }
